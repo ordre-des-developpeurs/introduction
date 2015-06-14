@@ -4,4 +4,4 @@
 
 Il y a quelques notes d'orateurs pour aider à la présentation, la timebox idéale étant de 20 min.
 
-Version en ligne [ici](http://ordre-des-developpeurs.github.io/introduction)
+Version en ligne [ici](http://ordre-des-developpeurs.github.io/odd-introduction)
